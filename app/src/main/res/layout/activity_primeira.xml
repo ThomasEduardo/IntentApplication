@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="36dp"
         android:text="Repetir Mensagem"
-        android:id="@+id/buttonExibeMensagem"
+        android:id="@+id/btmsg"
         android:onClick="repetir" />
 
     <Button
